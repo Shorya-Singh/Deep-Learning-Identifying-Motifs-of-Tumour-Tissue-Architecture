@@ -5,22 +5,47 @@
 * 2224727
 * Dr Ke Yuan
 
-## Guidance
-
-* This file contains the time log for your project. It will be submitted along with your final dissertation.
-* **YOU MUST KEEP THIS UP TO DATE AND UNDER VERSION CONTROL.**
-* This timelog should be filled out honestly, regularly (daily) and accurately. It is for *your* benefit.
-* Follow the structure provided, grouping time by weeks.  Quantise time to the half hour.
-
 ## Week 1
 
-### 19 Oct 2019
+### 28 Sept 2021
 
-* *4 hours* Read the project guidance notes
-* *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
-* *1 hour* Modified dissertation template, compiled  
+* *2 hours* Attended the level 4 project launch meeting
 
-## 20 Oct 2019
+### 29 Sept 2021
 
-* *1 hour* meeting with supervisor
-* *2 hours* writing initial version of test harness
+* *3 hours* Studied the research papers on which the project is based
+* *1 hour* Researched general terminoly related to pathology required for the project
+
+### 30 Sept 2021
+
+* *2 hours* Researched unsupervised learning
+
+### 1 Oct 2021
+
+* *2 hours* Researched representation learning techniques
+* *2 hours* Researched how GANs work
+
+## Week 2
+
+### 4 Oct 2021
+
+* *2 hours* Reaserched Pathology GAN and related models for representation learning
+
+### 5 Oct 2021
+
+* *2 hours* Researched clustering techniques for high dimensional data
+* *1 hour* Came up with an appropriate scope for the project based on the feasibility of completing the project within the timeframe of the academic year 
+
+### 6 Oct 2021
+
+* *1 hour* Came up with a high level pipeline which could be used to structure/cluster unsupervised cancer data
+* *1 hour* Researched potential evaluation metrics to evaluate image clusters 
+
+### 8 Oct 2021
+* *0.5 hour* Set up version control with appropriate project template
+* *0.5 hour* Attended the **first** meeting with the supervisor 
+* *1 hour* Reflected on and redefined the scope of the project based on the idea the supervisor had for the project
+
+
+
+
