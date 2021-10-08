@@ -32,13 +32,13 @@
 * *1 hour* Came up with an appropriate scope for the project based on the feasibility of completing the project within the timeframe of the academic year 
 
 ### 6 Oct 2021
-* *1 hour* Came up with a high level pipeline which could be used to structure/cluster unsupervised cancer data
+* *1 hour* Came up with a high level pipeline which could be used to structure/cluster unsupervised data
 * *1 hour* Researched potential evaluation metrics to evaluate image clusters 
 
 ### 8 Oct 2021
 * *0.5 hour* Set up version control with appropriate project template
 * *0.5 hour* Attended the **first** meeting with the supervisor 
-* *1 hour* Reflected on and redefined the scope of the project based on the idea the supervisor had for the project
+* *1 hour* Reflected on and redefined the scope of the project based on the idea the supervisor has for the project
 
 
 
