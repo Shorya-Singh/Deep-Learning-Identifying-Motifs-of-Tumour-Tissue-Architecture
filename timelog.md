@@ -1,9 +1,9 @@
 # Timelog
 
-* PROJECT NAME
-* YOUR NAME
-* STUDENT_ID
-* SUPERVISOR NAME
+* Identifying Motifs of Tumour Tissue Architecture with Deep Representation Learning
+* Shorya Singh
+* 2224727
+* Dr Ke Yuan
 
 ## Guidance
 
