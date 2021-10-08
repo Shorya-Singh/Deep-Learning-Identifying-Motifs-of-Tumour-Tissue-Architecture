@@ -8,36 +8,30 @@
 ## Week 1
 
 ### 28 Sept 2021
-
 * *2 hours* Attended the level 4 project launch meeting
 
 ### 29 Sept 2021
-
 * *3 hours* Studied the research papers on which the project is based
 * *1 hour* Researched general terminoly related to pathology required for the project
 
 ### 30 Sept 2021
-
 * *2 hours* Researched unsupervised learning
 
 ### 1 Oct 2021
-
 * *2 hours* Researched representation learning techniques
 * *2 hours* Researched how GANs work
+
 
 ## Week 2
 
 ### 4 Oct 2021
-
 * *2 hours* Reaserched Pathology GAN and related models for representation learning
 
 ### 5 Oct 2021
-
 * *2 hours* Researched clustering techniques for high dimensional data
 * *1 hour* Came up with an appropriate scope for the project based on the feasibility of completing the project within the timeframe of the academic year 
 
 ### 6 Oct 2021
-
 * *1 hour* Came up with a high level pipeline which could be used to structure/cluster unsupervised cancer data
 * *1 hour* Researched potential evaluation metrics to evaluate image clusters 
 
