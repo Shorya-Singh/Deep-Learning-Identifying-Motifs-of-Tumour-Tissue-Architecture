@@ -40,6 +40,12 @@
 * *0.5 hour* Attended the **first** meeting with the supervisor 
 * *1 hour* Reflected on and redefined the scope of the project based on the idea the supervisor has for the project
 
+### 10 Oct 2021
+* *0.5 hour* Set up Zotero and transfered all the references so far to Zotero
+
+### 11 Oct 2021
+* *1 hour* Go over the paper N2D: (Not Too) Deep Clustering via Clustering the Local Manifold of an Autoencoded Embedding
+
 
 
 
