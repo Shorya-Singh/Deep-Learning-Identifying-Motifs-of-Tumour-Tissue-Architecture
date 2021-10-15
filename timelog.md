@@ -61,7 +61,7 @@
 * *2 hours* Explored the principal components of the data and visualized the trends about the variance of different number of principal components
 * *2 hours* Plotted kmeans inertia scores with different k numbers to figure out best number of centroids for 2 principal components which show most variance
 * *1 hour* Ran kmeans with the 2 principal components
-*
+
 ### 16 October 2021
 * *2 hours* Visualized the clusters and centroids and tried to come up with theories based on what I saw
 
