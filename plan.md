@@ -1,19 +1,19 @@
 # Plan
 
-* PROJECT TITLE
-* YOUR NAME
-* STUDENT ID
-* SUPERVISOR NAME
+* Identifying Motifs of Tumour Tissue Architecture with Deep Representation Learning
+* Shorya Singh
+* 2224727s
+* Dr Ke Yuan
 
-Week-by-week plan for the whole project. Update this as you go along.
+Week-by-week plan for the whole project.
 
 ## Winter semester
 
-* **Week 1**
-* **Week 2**
-* **Week 3**
-* **Week 4**
-* **Week 5**
+* **Week 1** Start researching the topic and the problem and come up initial ideas about project scope; research about representation learning
+* **Week 2** Come up with a potential pipeline for the project to be discussed with the supervisor; research GANs and PathologyGAN
+* **Week 3** Explore the dataset, research further into the potential clustering and analysis methods, and run an initial clustering analysis 
+* **Week 4** Implement the deep clustering method as described in DEC(Xie et al.) and analyse the results
+* **Week 5** Implement some dimentionality reductions and run clustering using methods described in N2D (McConville et al.)
 * **Week 6**
 * **Week 7**
 * **Week 8**
