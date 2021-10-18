@@ -53,17 +53,23 @@
 * *1 hour* Researched about H5py file format and read the documentation
 * *0.5 hour* Set up a jupyter notebook for experimentation on the data
 
-### 14 October 2021
+### 14 Oct 2021
 * *1 hour* Explorde the dataset
 * *1 hours* Wrote a script to match the image representation data to the patient mutation data based on barcode
 
-### 15 October 2021
+### 15 Oct 2021
 * *2 hours* Explored the principal components of the data and visualized the trends about the variance of different number of principal components
 * *2 hours* Plotted kmeans inertia scores with different k numbers to figure out best number of centroids for 2 principal components which show most variance
 * *1 hour* Ran kmeans with the 2 principal components
 
-### 16 October 2021
+### 16 Oct 2021
 * *2 hours* Visualized the clusters and centroids and tried to come up with theories based on what I saw
+
+### 17 Oct 2021
+* *3 hours* Ran kmeans on all the features and visualized the clusters on the 3 principal components. Plotted different views of the clusters to theorize why the clusters are so close to each other
+
+### 18 Oct 2021
+* *1 hour* researched on how to plot interactive plots to easily see differnt angles of the plot. Plotted interactive plots
 
 
 
