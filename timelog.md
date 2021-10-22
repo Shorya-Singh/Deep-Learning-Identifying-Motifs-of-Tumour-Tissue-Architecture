@@ -82,7 +82,7 @@
 
 ### 21 Oct 2021
 * *1 hour* Organized jupyter notebook to make it suitable/presentable for sharing
-* *0.5 hour* Prepared summary powerpoint presentation
+* *1 hour* Prepared summary powerpoint presentation of work done so far
 
 
 
