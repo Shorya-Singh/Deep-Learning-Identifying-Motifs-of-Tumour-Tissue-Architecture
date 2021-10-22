@@ -68,8 +68,21 @@
 ### 17 Oct 2021
 * *3 hours* Ran kmeans on all the features and visualized the clusters on the 3 principal components. Plotted different views of the clusters to theorize why the clusters are so close to each other
 
+## Week 4
+
 ### 18 Oct 2021
 * *1 hour* researched on how to plot interactive plots to easily see differnt angles of the plot. Plotted interactive plots
+
+### 19 Oct 2021
+* *2 hours* Analysed clusters using Silhouette Coefficient
+* *1 hour* Met with the advisor and other people involved in research
+
+### 20 Oct 2021
+* *3 hours* Read papers on dimentionality reduction - umap, t-sne
+
+### 21 Oct 2021
+* *1 hour* Organized jupyter notebook to make it suitable/presentable for sharing
+* *0.5 hour* Prepared summary powerpoint presentation
 
 
 
