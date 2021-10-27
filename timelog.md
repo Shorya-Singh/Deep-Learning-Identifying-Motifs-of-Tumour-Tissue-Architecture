@@ -84,6 +84,16 @@
 * *1 hour* Organized jupyter notebook to make it suitable/presentable for sharing
 * *1 hour* Prepared summary powerpoint presentation of work done so far
 
+### 23 Oct 2021
+* *2 hours* Converted Pca to UMAP, research + debugging
+* *2 hours* Researched deep clustering options
+
+### 24 Oct 2021
+* *2 hours* Look for suitable implementations of DEC and decide on the most straightforward implementation
+* *2 hours* Familiriarized with deep embedded clustering along with sample cluster analysis
+
+
+
 
 
 
