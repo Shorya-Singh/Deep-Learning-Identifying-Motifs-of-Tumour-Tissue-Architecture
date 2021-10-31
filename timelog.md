@@ -94,21 +94,21 @@
 
 ## Week 5
 
-### Oct 26 2021
+### 26 Oct 2021
 *1 hour* Weekly AI pathology meating
 
-### Oct 29 2021
+### 29 Oct 2021
 * *4 hours* Found a suitable implementation of DEC, and initialize it
 * *2 hours* Made changes to an existing implementation of DEC to make it compatible with latest packages 
 * *1hour* Made changes to the DEC code to get rid of an attribute error  
 
-### Oct 30 2021
+### 30 Oct 2021
 * *2 hours* Sampled from the dataset to reduce data points, made the notebook compatible for work in colab
 * *2 hours* Initialized DEC setup
 * *1 hour* Saved autoencoder weights after the clutering failed due to a namespace error
 * *1 hour* Reinitialized the DEC setup with weights from previous pretraining 
 
-### Oct 31 2021
+### 31 Oct 2021
 * *1 hours* Troubleshoot the clustering in which I used PathologyGAN representations as input 
 
 
