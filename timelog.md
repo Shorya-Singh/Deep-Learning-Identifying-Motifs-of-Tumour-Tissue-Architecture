@@ -85,11 +85,11 @@
 * *1 hour* Prepared summary powerpoint presentation of work done so far
 
 ### 23 Oct 2021
-* *2 hours* Converted Pca to UMAP, research + debugging
+* *2 hours* A first look at the 100k dataset, set up a framework to match the 100k dataset to the gene mutation dataset
 * *2 hours* Researched deep clustering options
 
 ### 24 Oct 2021
-* *2 hours* Look for suitable implementations of DEC and decide on the most straightforward implementation
+* *2 hours* Looked for suitable implementations of DEC and decide on the most straightforward implementation
 * *2 hours* Familiriarized with deep embedded clustering along with sample cluster analysis
 
 ## Week 5
@@ -98,9 +98,9 @@
 *1 hour* Weekly AI pathology meating
 
 ### 29 Oct 2021
-* *4 hours* Found a suitable implementation of DEC, and initialize it
+* *4 hours* Tried out the implementation of DEC, and initialized it with toy dataset
 * *2 hours* Made changes to an existing implementation of DEC to make it compatible with latest packages 
-* *1hour* Made changes to the DEC code to get rid of an attribute error  
+* *1 hour* Made changes to the DEC code to get rid of an attribute error  
 
 ### 30 Oct 2021
 * *2 hours* Sampled from the dataset to reduce data points, made the notebook compatible for work in colab
@@ -109,7 +109,7 @@
 * *1 hour* Reinitialized the DEC setup with weights from previous pretraining 
 
 ### 31 Oct 2021
-* *1 hours* Troubleshoot the clustering in which I used PathologyGAN representations as input 
+* *1 hour* Troubleshoot the clustering in which I used PathologyGAN representations as input 
 
 
 
