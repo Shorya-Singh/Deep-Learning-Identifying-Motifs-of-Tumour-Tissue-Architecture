@@ -119,7 +119,7 @@
 * *4 hours* Configured DEC implementation to be compatible with GPU
 
 ### 2 Nov 2021
-* *4 hours* Changed the DEC implementation to make it use GPU and reconfigured tensorflow -GPU
+* *4 hours* Configured and troublshot tensorflow-gpu to make it work in my environment
 
 ### 5 Nov 2021
 * *2 hours* Configured keras backend to make it use tensorflow
