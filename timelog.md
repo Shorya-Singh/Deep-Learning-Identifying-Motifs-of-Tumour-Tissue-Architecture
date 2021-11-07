@@ -114,10 +114,14 @@
 
 ## Week 6
 ### 1 Nov 2021
-* *4 hours* Troubleshoot DEC implementation to be compatible with GPU
+* *4 hours* Configured DEC implementation to be compatible with GPU
 
 ### 2 Nov 2021
-* *4 hours* Change the DEC implementation to make it use GPU and reconfigure tensorflow GPU
+* *4 hours* Changed the DEC implementation to make it use GPU and reconfigured tensorflow -GPU
 
+### 5 Nov 2021
+* *2 hours* Configured keras backend to make it use tensorflow
 
+### 7 Nov 2021
+* *5 hours* Configured keras backend settings to make training possible in the cloud environment using GPU 
 
