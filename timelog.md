@@ -47,7 +47,7 @@
 * *1 hour* Go over the paper N2D: (Not Too) Deep Clustering via Clustering the Local Manifold of an Autoencoded Embedding
 
 ### 12 Oct 2021
-* *2 hours* Researched about prinipal component analysis along with potential pipelines to use it for clustering
+* *2 hours* Researched about principal component analysis along with potential pipelines to use it for clustering
 
 ### 13 Oct 2021
 * *1 hour* Researched about H5py file format and read the documentation
@@ -71,7 +71,8 @@
 ## Week 4
 
 ### 18 Oct 2021
-* *1 hour* researched on how to plot interactive plots to easily see differnt angles of the plot. Plotted interactive plots
+* *1 hour* Researched on how to plot interactive plots to easily see differnt angles of the plot. Plotted interactive plots
+*  *1 hour* Weekly pathology meeting
 
 ### 19 Oct 2021
 * *2 hours* Analysed clusters using Silhouette Coefficient
@@ -92,10 +93,11 @@
 * *2 hours* Looked for suitable implementations of DEC and decide on the most straightforward implementation
 * *2 hours* Familiriarized with deep embedded clustering along with sample cluster analysis
 
+
 ## Week 5
 
 ### 26 Oct 2021
-*1 hour* Weekly AI pathology meating
+* *1 hour* Weekly AI pathology meating
 
 ### 29 Oct 2021
 * *4 hours* Tried out the implementation of DEC, and initialized it with toy dataset
