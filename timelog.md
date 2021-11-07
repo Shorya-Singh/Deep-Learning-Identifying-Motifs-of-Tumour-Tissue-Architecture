@@ -112,7 +112,12 @@
 * *1 hour* Troubleshoot the clustering in which I used PathologyGAN representations as input 
 
 
+## Week 6
+### 1 Nov 2021
+* *4 hours* Troubleshoot DEC implementation to be compatible with GPU
 
+### 2 Nov 2021
+* *4 hours* Change the DEC implementation to make it use GPU and reconfigure tensorflow GPU
 
 
 
