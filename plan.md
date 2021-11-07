@@ -15,11 +15,11 @@ Week-by-week plan for the whole project.
 * **Week 4** Include appropriate measures to analyse the cluster quality and provide an initial mapping of the clusters to patient data
 * **Week 5** Implement the deep clustering method as described in DEC(Xie et al.) and analyse the cluster results by mapping them to petient data
 * **Week 6** Implement dimentionality reduction described in N2D (McConville et al.) and analyse the cluster results by mapping them to petient data
-* **Week 7** Tweak parameters of the clustering algorithms used so far to find the best parameters for within cluster homogeneity and best clustering of gene mutations
-* **Week 8** 
-* **Week 9**
-* **Week 10**
-* **Week 11 [PROJECT WEEK]**
+* **Week 7** Perform DEC using representations from different models
+* **Week 8** Analyse the performance of DEC with different representations using appropriate metrics
+* **Week 9** Map cluster space to gene mutation data to find patterns
+* **Week 10** Visualization for mappings, statistical testing for gene mutation patterns 
+* **Week 11 [PROJECT WEEK]** Initial downstream analysis with different dimensionality reductions, cluster spaces and representation models 
 * **Week 12 [PROJECT WEEK]** Status report submitted.
 
 ## Winter break
