@@ -127,3 +127,27 @@
 ### 7 Nov 2021
 * *5 hours* Configured keras backend settings to make training possible in the cloud environment using GPU 
 
+
+## Week 7
+### 9 Nov 2021
+* *1 hour* Research meeting with entire team
+
+### 12 Nov 2021
+* *5 hours* Analysed the results of the first successfull DEC (n_cluster = 9) across the whole data set with silhouette score and v-measure score and visualised with umap reduction
+
+### 13 Nov 2021
+* *4 hours* Set up and ran 3 fold cross validation with a small number of clusters (n_cluster = 5) to see how good DEC centroids are on unseen data
+
+### 14 Nov 2021
+* *2 hours* Visualized the tissue type distribution accross each cluster (n_cluster = 9) with a stacked bar plot
+* *1 hour* Researched the effect of autoencoder mappings to speculate if changing the autoencoder can help
+
+
+## Week 8
+### 15 Nov 2021
+* *1 hour* Analysed the results of the new clustering (n_cluster = 5) with appropriate metrics and re-read DEC paper to reason about the major decline in scores
+* *2 hours* Visualized the results of the new clustering (n_cluster = 5) using umap reduction and explored different umap parameters
+
+### 16 Nov 2021 
+* *1 hour* Attended the weekly research meeting
+* *1 hour* Ran the 3 fold test data through the autoencoder to reduce in the same dimension space as DEC clustering and set up new DEC instance with large number of clusters (n_cluster = 30)
