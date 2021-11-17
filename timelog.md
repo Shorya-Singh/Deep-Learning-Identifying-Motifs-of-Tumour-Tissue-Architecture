@@ -130,7 +130,7 @@
 
 ## Week 7
 ### 9 Nov 2021
-* *1 hour* Research meeting with entire team
+* *1 hour* Attended weekly research meeting with entire team
 
 ### 12 Nov 2021
 * *5 hours* Analysed the results of the first successfull DEC (n_cluster = 9) across the whole data set with silhouette score and v-measure score and visualised with umap reduction
