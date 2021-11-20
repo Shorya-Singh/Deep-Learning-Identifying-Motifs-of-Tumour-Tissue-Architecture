@@ -151,3 +151,11 @@
 ### 16 Nov 2021 
 * *1 hour* Attended the weekly research meeting
 * *1 hour* Ran the 3 fold test data through the autoencoder to reduce in the same dimension space as DEC clustering and set up new DEC instance with large number of clusters (n_cluster = 30)
+
+### 18 Nov 2021
+* *3 hours* Set up a linear classifier with regularized logistic regression along with hyperparameter tuning
+* *0.5 hour* Computed appropriate metrics of classifier performance and visualized the confusion matrix
+* *0.5 hour* Theorized why unsupervised approach and supervised approach both show mistakes with same tissue types
+
+### 19 Nov 2021
+* *1 hour* Level 4 project meeting with supervisor 
