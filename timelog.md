@@ -159,3 +159,7 @@
 
 ### 19 Nov 2021
 * *1 hour* Level 4 project meeting with supervisor 
+
+### 22 Nov 2021
+* *2 hours* Evaluated DEC performance with n_clusters = 30 
+* *1 hour* Evaluated the tuned logistic regression model and found features with weights = 0 using l1 regularization
