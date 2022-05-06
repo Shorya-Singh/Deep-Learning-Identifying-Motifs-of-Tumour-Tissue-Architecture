@@ -160,6 +160,36 @@
 ### 19 Nov 2021
 * *1 hour* Level 4 project meeting with supervisor 
 
-### 22 Nov 2021
+### 21 Nov 2021
 * *2 hours* Evaluated DEC performance with n_clusters = 30 
 * *1 hour* Evaluated the tuned logistic regression model and found features with weights = 0 using l1 regularization
+
+## Week 9
+### 22 Nov 2021
+* *4 hours* Visualized cluster quality and optimal cluster quality
+
+### 23 Nov 2021
+* *4 hours* Configured UMAP params to make tradeoff gloabal and local structure
+
+### 24 Nov 2021
+* *4 hours* Configured keras backend to make it use tensorflow in a new environment (different gpu)
+* *4 hours* Configured tensorflow-gou in the new environment and set up other rquired dependencies
+
+### 27 Nov
+* *6 hours* Analysed the similarities in the results from the supervised and unsupevised approaches and researched to come up with apt hypothesis to explain the results
+* *4 hours* Researched how the PathologyGAN model might be inclined to capture certain information better
+
+### 28 Nov 2021
+* *4 hours* Extracted PathologyGAN representations from the unlabelled TCGA dataset for projection
+* *4 hours* reduced the TCGA dataset to cluster space with the trained autoencoder and projected using euclidean distance
+
+## Week 10
+### 29 Nov 2021
+* *4 hours* Prepared status report
+
+### 30 Nov 2021
+* *4 hours* Researched the workings of ResNet50 structure
+* *4 hours* Extracted the deep representations of the H&E training dataset with ResNet50 model
+
+### 1 DEC 2021
+* *4 hours* Projected the unlabelled dataset with 
