@@ -259,3 +259,13 @@
 ### 23 Jan 2022
 * *4 hours* Visualized the TCGA projections after reducing with UMAP and configured umap parameters
 
+## Week 15
+### 25 Jan 2022
+* *1 hour* Attended team meeting
+* *4 hours* Did cluster quality visualization for the second most optimal cluster in ResNet50 kmeans analysis
+
+### 25 Jan 2022
+* *4 hours* Did cluster quality visualization for the second most optimal cluster in ResNet50 DEC analysis
+
+### 27 Jan 2022
+* *7 hours* Wrote a script for the automatic visualization of cluster space from a sample clustering
