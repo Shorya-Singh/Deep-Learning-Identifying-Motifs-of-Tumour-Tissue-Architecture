@@ -230,4 +230,32 @@
 * *2 hours* Visualized the tissue type distribution accross each cluster with a stacked bar plot for DEC
 
 ### 19 Dec 2021
-* *3 hours* compared the evaluation metric scores of the two models with each other
+* *3 hours* Compared the evaluation metric scores of the two models with each other
+
+## Week 13
+### 10 Jan 2022
+* *6 hours* Descriptive analysis of the reults from pathologyGAN and ResNet50 unsupervised results
+
+### 11 Jan 2022
+* *1 hour* Attended team meeting
+
+### 13 Jan 2022
+* *6 hours* Data preparation and initialization of supervised approach for ResNet50 representations
+
+### 16 Jan 2022
+* *5 hours* Compared, visualized and analyzed the results of classifier on ResNet50 representations
+
+## Week 14
+### 18 Jan 2022
+* *1 hour* Attended team meeting
+* *5 hours* Tuned classifier hyperparameters and re-compared, visualezed and analysed performance scores
+
+### 19 Jan 2022
+* *3 hours* Extracted ResNet50 representsation for the unlabelled TCGA dataset
+
+### 21 Jan 2022
+* *4 hours* Reduced the TCGA dataset to for ResNet50 cluster space with the trained DEC autoencoder and projected using euclidean distance 
+
+### 23 Jan 2022
+* *4 hours* Visualized the TCGA projections after reducing with UMAP and configured umap parameters
+
