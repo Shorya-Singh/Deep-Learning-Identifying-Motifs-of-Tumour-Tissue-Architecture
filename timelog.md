@@ -185,11 +185,46 @@
 
 ## Week 10
 ### 29 Nov 2021
-* *4 hours* Prepared status report
+* *1 hour* Attended weekly research meeting with entire team
+* *4 hours* Visualized the TCGA projections after reducing with UMAP and configured umap parameters
 
 ### 30 Nov 2021
 * *4 hours* Researched the workings of ResNet50 structure
 * *4 hours* Extracted the deep representations of the H&E training dataset with ResNet50 model
 
-### 1 DEC 2021
-* *4 hours* Projected the unlabelled dataset with 
+### 1 Dec 2021
+* *1 hour* subsampled 10k samples from the original training dataset to be used for training
+* *3 hours* ran DEC clustering using ResNet50 representations over a range of 2 to 30 number of clusters
+
+### 5 Dec 2021 
+* *4 hours* Visualized the cluster performance as a sil score/db index vs n_clusters scatterplot
+* *2 hours* Analyzed the performance of the optimal performing clusterings based on their evaluaition metric scores
+
+## Week 11
+### 6 Dec 2021 
+* *1 hour* Attended weekly research meeting with entire team
+
+### 7 Dec 2021
+* *5 hours* Analysed the results of the first successfull DEC across the whole data set with silhouette score and v-measure score and visualised with umap reduction
+
+### 9 Dec 2021
+* *4 hours* Analysed the results of the first successfull KMEANS across the whole data set with silhouette score and v-measure score and visualised with umap reduction
+
+### 10 Dec 2021
+* *2 hours* Visualized the tissue type distribution accross each cluster with a stacked bar plot
+* *2 hours* Researched the effect of autoencoder mappings to speculate if changing the autoencoder can help
+
+## Week 12
+### 14 Dec 2021 
+* *1 hour* Attended weekly research meeting with entire team
+* *2 hours* Status Report
+
+### 15 Dec 2021
+* *4 hours* Reduced the TCGA dataset to cluster space with the trained autoencoder and projected using euclidean distance
+
+### 16 Dec 2021
+* *4 hours* Visualized the TCGA projections after reducing with UMAP and configured umap parameters
+
+### 18 Dec 2021
+* *2 hours* Visualized the tissue type distribution accross each cluster with a stacked bar plot for KMEANS
+* *2 hours* Visualized the tissue type distribution accross each cluster with a stacked bar plot for DEC
