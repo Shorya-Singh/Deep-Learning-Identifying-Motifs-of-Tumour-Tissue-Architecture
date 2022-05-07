@@ -228,3 +228,6 @@
 ### 18 Dec 2021
 * *2 hours* Visualized the tissue type distribution accross each cluster with a stacked bar plot for KMEANS
 * *2 hours* Visualized the tissue type distribution accross each cluster with a stacked bar plot for DEC
+
+### 19 Dec 2021
+* *3 hours* compared the evaluation metric scores of the two models with each other
