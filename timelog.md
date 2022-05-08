@@ -31,7 +31,7 @@
 
 ### 6 Oct 2021
 * *1 hour* Came up with a high level pipeline which could be used to structure/cluster unsupervised data
-* *1 hour* Researched potential evaluation metrics to evaluate image clusters 
+* *2 hours* Researched potential evaluation metrics to evaluate image clusters 
 
 ### 8 Oct 2021
 * *0.5 hour* Set up version control with appropriate project template
@@ -55,7 +55,7 @@
 
 ### 14 Oct 2021
 * *1 hour* Explorde the dataset
-* *1 hours* Wrote a script to match the image representation data to the patient mutation data based on barcode
+* *2 hours* Wrote a script to match the image representation data to the patient mutation data based on barcode
 
 ### 15 Oct 2021
 * *2 hours* Explored the principal components of the data and visualized the trends about the variance of different number of principal components
@@ -150,7 +150,7 @@
 
 ### 16 Nov 2021 
 * *1 hour* Attended the weekly research meeting
-* *1 hour* Ran the 3 fold test data through the autoencoder to reduce in the same dimension space as DEC clustering and set up new DEC instance with large number of clusters (n_cluster = 30)
+* *2 hours* Ran the 3 fold test data through the autoencoder to reduce in the same dimension space as DEC clustering and set up new DEC instance with large number of clusters (n_cluster = 30)
 
 ### 18 Nov 2021
 * *3 hours* Set up a linear classifier with regularized logistic regression along with hyperparameter tuning
@@ -309,4 +309,8 @@
 
 ## Week 19
 ### 21 Feb 2022
-* *4 hours* 
+* *4 hours* Generated score tables for unsupervised optimal cluster range plot for both the representations
+
+### 23 Feb 2022 
+* *4 hours* Generated ranked evaluation metric performance tables for both the representations
+
