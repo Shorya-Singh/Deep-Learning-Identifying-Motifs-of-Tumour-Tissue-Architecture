@@ -298,7 +298,7 @@
 ### 15 Feb 2022
 * *1 hour* Attended team meeting
 
-### 17 Feb
+### 17 Feb 2022
 * *6 hours* Analyzed the performance of both the representation models and ranked based on both the supervised and unsupervised approaches
 
 ### 18 Feb 2022
@@ -307,10 +307,19 @@
 ### 19 Feb 2022
 * *4 hours* Hypothesized the observations for both the representation learning models
 
-## Week 19
+## Week 18
 ### 21 Feb 2022
 * *4 hours* Generated score tables for unsupervised optimal cluster range plot for both the representations
 
 ### 23 Feb 2022 
 * *4 hours* Generated ranked evaluation metric performance tables for both the representations
+* *4 hours* Researched batch effects and how they may be affecting the data projection onto cluster space
+
+### 25 Feb 2022
+* *4 hours* Researched the possible benifits and drawbacks of neighbors parameter in UMAP
+* *1 hour* Attended supervisor meeting
+
+## Week 19 
+### 28 Feb 222
+* **
 
