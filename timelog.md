@@ -264,8 +264,28 @@
 * *1 hour* Attended team meeting
 * *4 hours* Did cluster quality visualization for the second most optimal cluster in ResNet50 kmeans analysis
 
-### 25 Jan 2022
+### 26 Jan 2022
 * *4 hours* Did cluster quality visualization for the second most optimal cluster in ResNet50 DEC analysis
 
 ### 27 Jan 2022
 * *7 hours* Wrote a script for the automatic visualization of cluster space from a sample clustering
+
+### 29 Jan 2022
+* *5 hours* Tested the cluster quality and latent cluster space visualization script
+
+## Week 15 
+### 31 Jan 2022
+* *4 hours* Analysed the performance of the second best clustering with Resnet50 based on evaluation metrics scores and visualizations
+
+### 4 Feb 2022
+* *2 hours* Compared and ranked the models for both the best and second best performing clustering with both methods
+* *4 hours* Analysed the unsupervised task as a whole for both of the models using the two clustering approaches
+
+### 5 Feb 2022 
+* *6 hours* Set up overleaf dissertation template, researched about and wrote a draft abstract
+
+## Week 16 2022
+### 7 Feb 2022
+* *8 hours* Structured and wrote a draft introduction section based on the acheived and remaing goals in the project as capped by time and resource constrains
+
+
