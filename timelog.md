@@ -284,8 +284,29 @@
 ### 5 Feb 2022 
 * *6 hours* Set up overleaf dissertation template, researched about and wrote a draft abstract
 
-## Week 16 2022
+## Week 16 
 ### 7 Feb 2022
 * *8 hours* Structured and wrote a draft introduction section based on the acheived and remaing goals in the project as capped by time and resource constrains
 
+### 11 Feb 2022
+* *4 hours* saved model states, autoencoder weights, and pickled every clustering recorded
 
+### 12 Feb 2022
+* *4 hours* Organized and started writing the background section
+
+## Week 17
+### 15 Feb 2022
+* *1 hour* Attended team meeting
+
+### 17 Feb
+* *6 hours* Analyzed the performance of both the representation models and ranked based on both the supervised and unsupervised approaches
+
+### 18 Feb 2022
+* *4 hours* Researched the probable causes for the observed trends in both the representations
+
+### 19 Feb 2022
+* *4 hours* Hypothesized the observations for both the representation learning models
+
+## Week 19
+### 21 Feb 2022
+* *4 hours* 
