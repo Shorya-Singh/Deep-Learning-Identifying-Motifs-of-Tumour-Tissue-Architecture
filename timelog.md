@@ -279,7 +279,6 @@
 
 ### 4 Feb 2022
 * *2 hours* Compared and ranked the models for both the best and second best performing clustering with both methods
-* *4 hours* Analysed the unsupervised task as a whole for both of the models using the two clustering approaches
 
 ### 5 Feb 2022 
 * *6 hours* Set up overleaf dissertation template, researched about and wrote a draft abstract
@@ -313,13 +312,15 @@
 
 ### 23 Feb 2022 
 * *4 hours* Generated ranked evaluation metric performance tables for both the representations
-* *4 hours* Researched batch effects and how they may be affecting the data projection onto cluster space
 
 ### 25 Feb 2022
 * *4 hours* Researched the possible benifits and drawbacks of neighbors parameter in UMAP
 * *1 hour* Attended supervisor meeting
 
 ## Week 19 
-### 28 Feb 222
-* **
+### 28 Feb 2022
+* *4 hours* Researched batch effects and how they may be affecting the data projection onto cluster space
+
+### 1 March 2022
+* *4 hours* Analysed the unsupervised task as a whole for both of the models using the two clustering approaches
 
