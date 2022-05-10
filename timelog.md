@@ -27,10 +27,10 @@
 
 ### 5 Oct 2021
 * *2 hours* Researched clustering techniques for high dimensional data
-* *1 hour* Came up with an appropriate scope for the project based on the feasibility of completing the project within the timeframe of the academic year 
+* *2 hour* Came up with an appropriate scope for the project based on the feasibility of completing the project within the timeframe of the academic year 
 
 ### 6 Oct 2021
-* *1 hour* Came up with a high level pipeline which could be used to structure/cluster unsupervised data
+* *2 hour* Came up with a high level pipeline which could be used to structure/cluster unsupervised data
 * *2 hours* Researched potential evaluation metrics to evaluate image clusters 
 
 ### 8 Oct 2021
@@ -47,10 +47,10 @@
 * *1 hour* Go over the paper N2D: (Not Too) Deep Clustering via Clustering the Local Manifold of an Autoencoded Embedding
 
 ### 12 Oct 2021
-* *2 hours* Researched about principal component analysis along with potential pipelines to use it for clustering
+* *3 hours* Researched about principal component analysis along with potential pipelines to use it for clustering
 
 ### 13 Oct 2021
-* *1 hour* Researched about H5py file format and read the documentation
+* *2 hour* Researched about H5py file format and read the documentation
 * *0.5 hour* Set up a jupyter notebook for experimentation on the data
 
 ### 14 Oct 2021
@@ -60,18 +60,18 @@
 ### 15 Oct 2021
 * *2 hours* Explored the principal components of the data and visualized the trends about the variance of different number of principal components
 * *2 hours* Plotted kmeans inertia scores with different k numbers to figure out best number of centroids for 2 principal components which show most variance
-* *1 hour* Ran kmeans with the 2 principal components
+* *2 hour* Ran kmeans with the 2 principal components
 
 ### 16 Oct 2021
-* *2 hours* Visualized the clusters and centroids and tried to come up with theories based on what I saw
+* *3 hours* Visualized the clusters and centroids and tried to come up with theories based on what I saw
 
 ### 17 Oct 2021
-* *3 hours* Ran kmeans on all the features and visualized the clusters on the 3 principal components. Plotted different views of the clusters to theorize why the clusters are so close to each other
+* *4 hours* Ran kmeans on all the features and visualized the clusters on the 3 principal components. Plotted different views of the clusters to theorize why the clusters are so close to each other
 
 ## Week 4
 
 ### 18 Oct 2021
-* *1 hour* Researched on how to plot interactive plots to easily see differnt angles of the plot. Plotted interactive plots
+* *2 hour* Researched on how to plot interactive plots to easily see differnt angles of the plot. Plotted interactive plots
 *  *1 hour* Weekly pathology meeting
 
 ### 19 Oct 2021
@@ -79,7 +79,7 @@
 * *1 hour* Met with the advisor and other people involved in research
 
 ### 20 Oct 2021
-* *3 hours* Read papers on dimentionality reduction - umap, t-sne
+* *4 hours* Read papers on dimentionality reduction - umap, t-sne
 
 ### 21 Oct 2021
 * *1 hour* Organized jupyter notebook to make it suitable/presentable for sharing
@@ -87,10 +87,10 @@
 
 ### 23 Oct 2021
 * *2 hours* A first look at the 100k dataset, set up a framework to match the 100k dataset to the gene mutation dataset
-* *2 hours* Researched deep clustering options
+* *3 hours* Researched deep clustering options
 
 ### 24 Oct 2021
-* *2 hours* Looked for suitable implementations of DEC and decide on the most straightforward implementation
+* *3 hours* Looked for suitable implementations of DEC and decide on the most straightforward implementation
 * *2 hours* Familiriarized with deep embedded clustering along with sample cluster analysis
 
 
@@ -102,12 +102,12 @@
 ### 29 Oct 2021
 * *4 hours* Tried out the implementation of DEC, and initialized it with toy dataset
 * *2 hours* Made changes to an existing implementation of DEC to make it compatible with latest packages 
-* *1 hour* Made changes to the DEC code to get rid of an attribute error  
+* *2 hour* Made changes to the DEC code to get rid of an attribute error  
 
 ### 30 Oct 2021
 * *2 hours* Sampled from the dataset to reduce data points, made the notebook compatible for work in colab
 * *2 hours* Initialized DEC setup
-* *1 hour* Saved autoencoder weights after the clutering failed due to a namespace error
+* *2 hour* Saved autoencoder weights after the clutering failed due to a namespace error
 * *1 hour* Reinitialized the DEC setup with weights from previous pretraining 
 
 ### 31 Oct 2021
@@ -116,13 +116,13 @@
 
 ## Week 6
 ### 1 Nov 2021
-* *4 hours* Configured DEC implementation to be compatible with GPU
+* *6 hours* Configured DEC implementation to be compatible with GPU
 
 ### 2 Nov 2021
 * *4 hours* Configured and troublshot tensorflow-gpu to make it work in my environment
 
 ### 5 Nov 2021
-* *2 hours* Configured keras backend to make it use tensorflow
+* *3 hours* Configured keras backend to make it use tensorflow
 
 ### 7 Nov 2021
 * *5 hours* Configured keras backend settings to make training possible in the cloud environment using GPU 
@@ -145,7 +145,7 @@
 
 ## Week 8
 ### 15 Nov 2021
-* *1 hour* Analysed the results of the new clustering (n_cluster = 5) with appropriate metrics and re-read DEC paper to reason about the major decline in scores
+* *2 hour* Analysed the results of the new clustering (n_cluster = 5) with appropriate metrics and re-read DEC paper to reason about the major decline in scores
 * *2 hours* Visualized the results of the new clustering (n_cluster = 5) using umap reduction and explored different umap parameters
 
 ### 16 Nov 2021 
@@ -154,7 +154,7 @@
 
 ### 18 Nov 2021
 * *3 hours* Set up a linear classifier with regularized logistic regression along with hyperparameter tuning
-* *0.5 hour* Computed appropriate metrics of classifier performance and visualized the confusion matrix
+* *1.5 hour* Computed appropriate metrics of classifier performance and visualized the confusion matrix
 * *0.5 hour* Theorized why unsupervised approach and supervised approach both show mistakes with same tissue types
 
 ### 19 Nov 2021
@@ -198,7 +198,7 @@
 
 ### 5 Dec 2021 
 * *4 hours* Visualized the cluster performance as a sil score/db index vs n_clusters scatterplot
-* *2 hours* Analyzed the performance of the optimal performing clusterings based on their evaluaition metric scores
+* *3 hours* Analyzed the performance of the optimal performing clusterings based on their evaluaition metric scores
 
 ## Week 11
 ### 6 Dec 2021 
@@ -248,7 +248,6 @@
 ## Week 14
 ### 18 Jan 2022
 * *1 hour* Attended team meeting
-* *5 hours* Tuned classifier hyperparameters and re-compared, visualezed and analysed performance scores
 
 ### 19 Jan 2022
 * *3 hours* Extracted ResNet50 representsation for the unlabelled TCGA dataset
@@ -267,9 +266,6 @@
 ### 26 Jan 2022
 * *4 hours* Did cluster quality visualization for the second most optimal cluster in ResNet50 DEC analysis
 
-### 27 Jan 2022
-* *7 hours* Wrote a script for the automatic visualization of cluster space from a sample clustering
-
 ### 29 Jan 2022
 * *5 hours* Tested the cluster quality and latent cluster space visualization script
 
@@ -278,20 +274,17 @@
 * *4 hours* Analysed the performance of the second best clustering with Resnet50 based on evaluation metrics scores and visualizations
 
 ### 4 Feb 2022
-* *2 hours* Compared and ranked the models for both the best and second best performing clustering with both methods
+* *3 hours* Compared and ranked the models for both the best and second best performing clustering with both methods
 
 ### 5 Feb 2022 
 * *6 hours* Set up overleaf dissertation template, researched about and wrote a draft abstract
 
 ## Week 16 
-### 7 Feb 2022
-* *8 hours* Structured and wrote a draft introduction section based on the acheived and remaing goals in the project as capped by time and resource constrains
-
 ### 11 Feb 2022
 * *4 hours* saved model states, autoencoder weights, and pickled every clustering recorded
 
 ### 12 Feb 2022
-* *4 hours* Organized and started writing the background section
+* *8 hours* Structured and wrote a draft introduction section based on the acheived and remaing goals in the project as capped by time and resource constrains
 
 ## Week 17
 ### 15 Feb 2022
@@ -323,4 +316,20 @@
 
 ### 1 March 2022
 * *4 hours* Analysed the unsupervised task as a whole for both of the models using the two clustering approaches
+
+### 5 March 2022
+* *7 hours* Wrote a script for the automatic visualization of cluster space from a sample clustering
+
+## Week 20
+### 10 March 2022
+* *5 hours* Tuned classifier hyperparameters and re-compared, visualezed and analysed performance scores
+
+### 13 March 2022
+* *4 hours* Researched and compared my results with other classification approachies in the field
+
+## Week 21
+### 16 March 2022
+* *6 hours* Organized and started writing the background section
+
+## Total till Week 21 = 354
 
